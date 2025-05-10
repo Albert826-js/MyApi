@@ -1,0 +1,21 @@
+#butter{
+   
+    height:2rem;
+    width:5rem;
+    color: black;
+    border-radius: 0%;
+    box-shadow: none;
+    background-color: aqua;
+    margin-top:14rem;
+    margin-left:5rem;
+}
+
+
+#div{
+    background:linear-gradient(to left,black,red);
+    height: 18rem;
+    width:15rem;
+    border-radius:2rem;
+    margin-left:30rem;
+    margin-top:10rem;
+}
